@@ -5,3 +5,4 @@ Sorting of versions. Code can sort all the versions upto 3 levels.\
 Any of number of inputs can be given.
 
 #Sorting is done in asending order
+Sorting is done without sort function
